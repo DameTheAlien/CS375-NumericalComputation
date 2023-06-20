@@ -1,0 +1,29 @@
+375 Exam 1:
+
+5 problems
+A few look very similar to homework (NOT #4 or #5 on HW4)
+
+Use a calculator
+
+Know how the following work graphically:
+Bisection
+Fixed-point
+Newton
+
+Memorize the sensitivity formula:
+
+
+Know these from Calculus:
+Taylor's expansion
+Intermediate Value Theorem
+Mean Value Theorem
+
+Know algorithms like:
+Horner
+Bisection
+Fixed-point
+Newton
+Etc...
+
+
+
